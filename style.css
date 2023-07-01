@@ -1,0 +1,35 @@
+h1 {
+  color: darkred;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+h2 {
+  color: darkred;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h3,h4 {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+h4 {
+  margin-left: 20px;
+}
+
+body {
+  background-color: #d1d8e0;
+}
+
+p {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
